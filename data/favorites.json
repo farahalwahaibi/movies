@@ -1,0 +1,28 @@
+{
+  "favorites": [
+    {
+      "movie_id": 870671,
+      "user_id": null,
+      "note": "",
+      "id": 3
+    },
+    {
+      "movie_id": 870671,
+      "user_id": null,
+      "note": "",
+      "id": 4
+    },
+    {
+      "movie_id": 870671,
+      "user_id": null,
+      "note": "",
+      "id": 5
+    },
+    {
+      "movie_id": 870671,
+      "user_id": "LkuIlrCToWe74hWVVLM8QJzplV63",
+      "note": "",
+      "id": 6
+    }
+  ]
+}

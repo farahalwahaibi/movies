@@ -1,0 +1,18 @@
+.movie {
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 12px;
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: row;
+}
+
+.movie h2 {
+  font-size: 2rem;
+  color: #2378d5;
+}
+
+.img {
+  width: 100px;
+}
